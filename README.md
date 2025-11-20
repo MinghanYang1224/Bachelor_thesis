@@ -5,4 +5,4 @@ I would like to sincerely thank my supervisor, Prof. Richard Chandler, for his n
 dissertation experience a remarkably fruitful, inspiring, and unforgettable experience
 throughout my undergraduate studies. 
 
-I will be happy to communicate the methodologies in detail, and share my codes if you are interested!
+I welcome all suggestions from you, and will be happy to communicate the methodologies in detail and share my codes if you are interested!
